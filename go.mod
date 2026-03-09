@@ -1,6 +1,6 @@
 module github.com/nirvam/alertmanager-feishu-go
 
-go 1.26.1
+go 1.23
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
